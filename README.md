@@ -1,4 +1,4 @@
-# metamotphic-virus
+# metamorphic-virus
 
 injects itself into all elf binary files  in /tmp/test
 
