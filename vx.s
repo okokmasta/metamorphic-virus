@@ -1,4 +1,4 @@
-%include "includes/header.s"
+%include "./header.s"
 
 SECTION .TEXT EXEC WRITE
 global  _start                              ;must be declared for linker (ld)
